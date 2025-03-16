@@ -56,7 +56,5 @@ Mulund College of Commerce
 **Phase 1 Project Submission – Database Design**  
 **National Sports Federation System**
 
----
 
-*Feel free to modify this as needed or add any additional sections like ER Diagrams, Query Samples, or Screenshots.*
 
